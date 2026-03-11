@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 
-const businessName = 'MaKali Store by Arjun Baishya';
+const businessName = 'Maa Kali Online Store by Arjun Baishya';
 const phoneNumber = '+91 84531 30589';
 const whatsappLink = 'https://wa.me/918453130589';
 const callLink = 'tel:+918453130589';
@@ -164,7 +164,7 @@ function Navigation({ isTopBarVisible }: { isTopBarVisible: boolean }) {
             </div>
             <div>
               <span className="block text-base font-bold leading-tight text-white md:text-lg">
-                MaKali Store
+                Maa Kali Online Store
               </span>
               <span className="block text-[0.68rem] uppercase tracking-[0.25em] text-cyan-300/80">
                 by Arjun Baishya
@@ -237,7 +237,7 @@ function HeroSection() {
           <span className="text-cyan-400 text-sm font-medium">Get In Touch for Instant Installation Booking</span>
         </div>
 
-        <p className="text-sm uppercase tracking-[0.45em] text-white/60 mb-4">MaKali Store by Arjun Baishya</p>
+        <p className="text-sm uppercase tracking-[0.45em] text-white/60 mb-4">Maa Kali Online Store by Arjun Baishya</p>
         
         <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span className="text-white">Fast Internet</span>
@@ -248,7 +248,7 @@ function HeroSection() {
         </h1>
         
         <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto mb-10">
-          MaKali Store by Arjun Baishya delivers RailWire, NXT Broadband, BSNL, and AirFiber installation with 24/7 availability,
+          Maa Kali Online Store by Arjun Baishya delivers RailWire, NXT Broadband, BSNL, and AirFiber installation with 24/7 availability,
           fast activation, and direct WhatsApp or call support from the moment visitors land on the website.
         </p>
         
@@ -582,10 +582,10 @@ function ContactSection() {
         <div ref={ref} className={`text-center fade-in-up ${isVisible ? 'visible' : ''}`}>
           <span className="text-cyan-400 text-sm font-semibold tracking-wider uppercase">Get In Touch</span>
           <h2 className="text-3xl md:text-5xl font-bold mt-4 mb-6">
-            Talk to <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">MaKali Store</span>
+            Talk to <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">Maa Kali Online Store</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto mb-12">
-            Contact MaKali Store by Arjun Baishya for broadband installation, quick support, and direct booking any time of the week.
+            Contact Maa Kali Online Store by Arjun Baishya for broadband installation, quick support, and direct booking any time of the week.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
@@ -673,7 +673,7 @@ function Footer() {
               </svg>
             </div>
             <div>
-              <span className="block text-base font-bold text-white">MaKali Store</span>
+              <span className="block text-base font-bold text-white">Maa Kali Online Store</span>
               <span className="block text-[0.68rem] uppercase tracking-[0.25em] text-cyan-300/80">by Arjun Baishya</span>
             </div>
           </div>
@@ -697,7 +697,7 @@ function Footer() {
           </div>
           
           <p className="text-gray-500 text-sm">
-            © 2026 to 2030 MaKali Store by Arjun Baishya. All rights reserved.
+            © 2026 to 203330 Maa Kali Online Store by Arjun Baishya. All rights reserved.
           </p>
         </div>
       </div>
